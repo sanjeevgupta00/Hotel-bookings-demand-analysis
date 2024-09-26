@@ -59,6 +59,7 @@ Bar charts for distribution channel analysis
 Box plot to identify prefered month for booking
 Bar chart for desired room type and country analysis
 Interactive Tableau dashboard to understand the entire data and make inportant desicions upon the insights from the dasbboard
+![Alt text]([URL-or-path-to-your-image](https://github.com/sanjeevgupta00/Hotel-bookings-demand-analysis/blob/main/Hotel%20Bookimgs%20Tableau%20dashboard.PNG))
 
 Conclusion
 This Analysis provides valuable insights into hotel booking patterns and customer behavior. The results can be leveraged by hotel management to optimize room allocation, predict cancellations, and tailor marketing strategies to attract and retain guests.
